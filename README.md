@@ -1,11 +1,13 @@
 
-Build: https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release&stageName=Build%20the%20web%20application&jobName=Build%20job
+Pipeline: [![Build Status](https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release)](https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_build/latest?definitionId=5&branchName=release)
 <br />
-Dev: https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release&stageName=Deploy%20to%20the%20dev%20environment&jobName=Deploy
+Build: [![Build Status](https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release&stageName=Build%20the%20web%20application&jobName=Build%20job)](https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_build/latest?definitionId=5&branchName=release)
 <br />
-Test: https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release&stageName=Deploy%20to%20the%20test%20environment&jobName=Deploy
+Dev: [![Build Status](https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release&stageName=Deploy%20to%20the%20dev%20environment&jobName=Deploy)](https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_build/latest?definitionId=5&branchName=release)
 <br />
-Staging: https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release&stageName=Deploy%20to%20the%20staging%20environment&jobName=Deploy
+Test: [![Build Status](https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release&stageName=Deploy%20to%20the%20test%20environment&jobName=Deploy)](https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_build/latest?definitionId=5&branchName=release)
+<br />
+Staging: [![Build Status](https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=release&stageName=Deploy%20to%20the%20staging%20environment&jobName=Deploy)](https://dev.azure.com/LeoDemo0024/MultiStagePipeline/_build/latest?definitionId=5&branchName=release)
 <br /><br />
 ## Contributing
 
