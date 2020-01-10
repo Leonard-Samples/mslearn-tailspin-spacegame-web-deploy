@@ -81,7 +81,8 @@ stages:
       eq(variables['Build.SourceBranchName'], variables['releaseBranchName'])
     )
   jobs:
-  - deployment: Deploy_Dev
+  - deployment: Deploy
+    displayName: 'Deploy Dev'
     pool:
       vmImage: 'Ubuntu-16.04'
     environment: dev
